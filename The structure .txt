@@ -1,0 +1,6 @@
+telegram_bot/
+├── bot_config.js       (الإعدادات)
+├── main.js             (الملف الرئيسي)
+├── admin_commands.js   (أوامر المشرف)
+├── auto_funding.js     (نظام التمويل)
+└── package.json        (إعدادات npm)
